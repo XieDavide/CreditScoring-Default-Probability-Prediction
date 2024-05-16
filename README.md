@@ -37,4 +37,4 @@ The metric with which we will evaluate your predictions is AUC
 
 # Notes
 -- Follow the Jupyter Notebook called [project_code](https://github.com/XieDavide/CreditScoring-Default-Probability-Prediction/blob/main/project_code.ipynb) (and pip install certain libraries if needed) <br/>
--- The final production consists of a 5-page report (pdf) and analysis of the problem, the approach to it, and the model and its performance. Download it to visualize it.<br/>
+-- The final production consists of a 5-page [report]() and analysis of the problem, the approach to it, and the model and its performance. <br/>
